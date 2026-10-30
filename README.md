@@ -2,7 +2,7 @@
 
 # Empower Smart Project Backup — Downloads
 
-This repository hosts **downloads and issue tracking** for Empower Smart Project Backup, part of
+This repository hosts **downloads** for Empower Smart Project Backup, part of
 the Empower Smart Tools family alongside
 [Empower Smart Deploy](https://github.com/mattpetosa/empower-smart-deploy-releases),
 [Empower Smart Recovery](https://github.com/mattpetosa/empower-smart-recovery-releases),
@@ -41,4 +41,4 @@ project can be put back from a recent backup.
 
 ## Issues
 
-Found a problem? [Open an issue](https://github.com/mattpetosa/empower-smart-project-backup-releases/issues).
+Found a problem or have a request? Every Smart Tools app shares one place for feedback: [open an issue in Smart Tools Feedback](https://github.com/mattpetosa/smart-tools-feedback/issues/new/choose).
